@@ -19,7 +19,7 @@
 	} else{
 %>
 <script type="text/javascript">
-	alert("등록되었습니다");
+	alert("등록되었습니다.");
 	location.href="ListServlet";//목록으로 돌아간다.
 </script>
 <%
